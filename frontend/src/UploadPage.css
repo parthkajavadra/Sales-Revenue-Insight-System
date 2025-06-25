@@ -1,0 +1,18 @@
+.card {
+  border-radius: 16px;
+  border: 1px solid #eee;
+  background-color: #fefefe;
+}
+
+input[type="file"] {
+  border-radius: 6px;
+}
+
+h4 {
+  color: #3c3c3c;
+  font-weight: 600;
+}
+.card {
+  border-radius: 12px;
+  background-color: #fefefe;
+}
